@@ -1,6 +1,6 @@
-# progummyv2
+# Web Synchronization coordinate application.
 
-after you clone the git
+After you clone the git
 open terminal on your vscode and cd into the cloned directory, and write npm install, then npm start
 Then access on localhost:3000 from different browsers. 
 You can drag on one and it will automatically reflect the same changes on the other browser.
