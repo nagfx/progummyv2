@@ -1,5 +1,7 @@
 Deployed: https://comfortable-wind-peacock.glitch.me/
+
 Github: https://github.com/nagfx/progummyv2
+
 Video demonstration: https://youtu.be/ecIG_Fq5f9M
 
 Once you open the Github link the readme.md has instructions and details but I am copying pasting here too
